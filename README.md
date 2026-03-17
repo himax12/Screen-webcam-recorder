@@ -4,31 +4,9 @@ A cross-platform desktop application built with **Electron + React + TypeScript*
 
 ## Demo
 
-<p align="center">
-  <a href="https://vimeo.com/1174422964">
-    <img src="https://vumbnail.com/1174422964.jpg" alt="Watch Screen + Webcam Recorder demo on Vimeo" width="960" />
-  </a>
-</p>
+[![Watch Screen + Webcam Recorder demo on Vimeo](https://vumbnail.com/1174422964.jpg)](https://vimeo.com/1174422964)
 
-<p align="center">
-  <a href="https://vimeo.com/1174422964"><strong>▶ Watch Demo Video (Vimeo)</strong></a>
-</p>
-
-<!--
-  Some markdown renderers support iframe video embeds.
-  GitHub README strips iframe tags, so the clickable thumbnail above is the reliable fallback.
--->
-<p align="center">
-  <iframe
-    src="https://player.vimeo.com/video/1174422964"
-    width="960"
-    height="540"
-    frameborder="0"
-    allow="autoplay; fullscreen; picture-in-picture"
-    allowfullscreen
-    title="Screen + Webcam Recorder Demo"
-  ></iframe>
-</p>
+**[▶ Watch Demo Video (Vimeo)](https://vimeo.com/1174422964)**
 
 ---
 
