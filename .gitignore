@@ -29,4 +29,3 @@ videos
 # Media safety nets
 *.webm
 *.mp4
-!media/demo-preview.mp4

@@ -4,9 +4,7 @@ A cross-platform desktop application built with **Electron + React + TypeScript*
 
 ## Demo
 
-<video src="https://raw.githubusercontent.com/himax12/Screen-webcam-recorder/main/media/demo-preview.mp4" controls width="100%"></video>
-
-[Open demo video directly](https://raw.githubusercontent.com/himax12/Screen-webcam-recorder/main/media/demo-preview.mp4)
+https://github.com/user-attachments/assets/76b072ca-475c-4790-a20c-c9b5c29bb99a
 
 ---
 
