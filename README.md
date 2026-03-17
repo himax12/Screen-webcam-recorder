@@ -4,7 +4,7 @@ A cross-platform desktop application built with **Electron + React + TypeScript*
 
 ## Demo
 
-[![Watch the demo](https://vumbnail.com/1174406898.jpg)](https://vimeo.com/1174406898)
+[![Watch the demo](https://vumbnail.com/1174422964.jpg)](https://vimeo.com/1174422964)
 
 ---
 
