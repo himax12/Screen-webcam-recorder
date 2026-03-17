@@ -4,7 +4,9 @@ A cross-platform desktop application built with **Electron + React + TypeScript*
 
 ## Demo
 
-https://github.com/user-attachments/assets/76b072ca-475c-4790-a20c-c9b5c29bb99a
+[![Watch Screen + Webcam Recorder demo on Vimeo](https://vumbnail.com/1174422964.jpg)](https://vimeo.com/1174422964)
+
+**[▶ Watch Demo Video (Vimeo)](https://vimeo.com/1174422964)**
 
 ---
 
