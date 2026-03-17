@@ -1,0 +1,32 @@
+:root {
+  font-family: 'Bahnschrift', 'Segoe UI Variable', 'Trebuchet MS', sans-serif;
+  line-height: 1.45;
+  font-weight: 400;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  min-height: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  color: #e4eee6;
+  background:
+    repeating-linear-gradient(
+      165deg,
+      rgba(131, 146, 77, 0.07) 0,
+      rgba(131, 146, 77, 0.07) 18px,
+      rgba(44, 72, 58, 0.05) 18px,
+      rgba(44, 72, 58, 0.05) 36px
+    ),
+    radial-gradient(circle at 20% 18%, rgba(151, 169, 93, 0.22), transparent 46%),
+    radial-gradient(circle at 82% 84%, rgba(36, 70, 54, 0.2), transparent 42%),
+    #091112;
+}
